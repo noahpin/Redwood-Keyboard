@@ -13,3 +13,6 @@
 [submodule "PCB/AlexandriaLibrary"]
 	path = PCB/AlexandriaLibrary
 	url = https://github.com/AcheronProject/AlexandriaLibrary.git
+[submodule "PCB/acheron_Connectors.pretty"]
+	path = PCB/acheron_Connectors.pretty
+	url = https://github.com/AcheronProject/acheron_Connectors.pretty

@@ -852,7 +852,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 107.95 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 05cbd0fa-afb5-49ff-8411-094dacde66e5)
-    (property "Reference" "SW33" (at 107.95 114.3 0)
+    (property "Reference" "SW37" (at 107.95 114.3 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 107.95 116.84 0)
@@ -869,7 +869,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW33") (unit 1)
+          (reference "SW37") (unit 1)
         )
       )
       (project "Matrix"
@@ -883,7 +883,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 107.95 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0ca75922-09c5-465d-b7cb-489a2248c917)
-    (property "Reference" "SW3" (at 107.95 38.1 0)
+    (property "Reference" "SW7" (at 107.95 38.1 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 107.95 40.64 0)
@@ -900,7 +900,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW3") (unit 1)
+          (reference "SW7") (unit 1)
         )
       )
       (project "Matrix"
@@ -914,7 +914,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 148.59 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0f334320-fd72-49ce-9327-ede2c6cd80bd)
-    (property "Reference" "SW35" (at 148.59 114.3 0)
+    (property "Reference" "SW39" (at 148.59 114.3 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 148.59 116.84 0)
@@ -931,7 +931,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW35") (unit 1)
+          (reference "SW39") (unit 1)
         )
       )
       (project "Matrix"
@@ -945,7 +945,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 148.59 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 11efbb74-e66d-4544-bd24-5bf62e502ab5)
-    (property "Reference" "SW17" (at 148.59 68.58 0)
+    (property "Reference" "SW21" (at 148.59 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 148.59 71.12 0)
@@ -962,7 +962,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW17") (unit 1)
+          (reference "SW21") (unit 1)
         )
       )
       (project "Matrix"
@@ -976,7 +976,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 128.27 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 12b8d5d7-7195-4851-bd86-23f4d5f49c7c)
-    (property "Reference" "SW16" (at 128.27 68.58 0)
+    (property "Reference" "SW20" (at 128.27 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 128.27 71.12 0)
@@ -993,7 +993,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW16") (unit 1)
+          (reference "SW20") (unit 1)
         )
       )
       (project "Matrix"
@@ -1044,7 +1044,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 67.31 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 21d2f5d6-647e-4d3e-8939-90d075cf7b17)
-    (property "Reference" "SW25" (at 67.31 99.06 0)
+    (property "Reference" "SW29" (at 67.31 99.06 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 67.31 101.6 0)
@@ -1061,7 +1061,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW25") (unit 1)
+          (reference "SW29") (unit 1)
         )
       )
       (project "Matrix"
@@ -1075,7 +1075,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 168.91 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 220f9969-2f23-4d75-bc42-3fcf45ac69bc)
-    (property "Reference" "SW24" (at 168.91 83.82 0)
+    (property "Reference" "SW28" (at 168.91 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 168.91 86.36 0)
@@ -1092,7 +1092,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW24") (unit 1)
+          (reference "SW28") (unit 1)
         )
       )
       (project "Matrix"
@@ -1180,7 +1180,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 128.27 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2a0b7c7d-0b99-4c03-bcaa-1eb7fab97a84)
-    (property "Reference" "SW28" (at 128.27 99.06 0)
+    (property "Reference" "SW32" (at 128.27 99.06 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 128.27 101.6 0)
@@ -1197,7 +1197,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW28") (unit 1)
+          (reference "SW32") (unit 1)
         )
       )
       (project "Matrix"
@@ -1322,7 +1322,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 107.95 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2f4a359b-e5df-4766-8dbf-3728583860b8)
-    (property "Reference" "SW15" (at 107.95 68.58 0)
+    (property "Reference" "SW19" (at 107.95 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 107.95 71.12 0)
@@ -1339,7 +1339,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW15") (unit 1)
+          (reference "SW19") (unit 1)
         )
       )
       (project "Matrix"
@@ -1353,7 +1353,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 67.31 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 31c03d5e-81cc-4d4c-90d2-a540f84da1a6)
-    (property "Reference" "SW7" (at 67.31 53.34 0)
+    (property "Reference" "SW11" (at 67.31 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 67.31 55.88 0)
@@ -1370,7 +1370,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW7") (unit 1)
+          (reference "SW11") (unit 1)
         )
       )
       (project "Matrix"
@@ -1458,7 +1458,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 87.63 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 398a3567-df3a-4dd7-9b4d-9e8aefe74a78)
-    (property "Reference" "SW20" (at 87.63 83.82 0)
+    (property "Reference" "SW24" (at 87.63 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 87.63 86.36 0)
@@ -1475,7 +1475,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW20") (unit 1)
+          (reference "SW24") (unit 1)
         )
       )
       (project "Matrix"
@@ -1563,7 +1563,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 107.95 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 409454bc-d628-493f-8a5b-c6f883a1626b)
-    (property "Reference" "SW39" (at 107.95 129.54 0)
+    (property "Reference" "SW46" (at 107.95 129.54 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 107.95 132.08 0)
@@ -1580,7 +1580,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW39") (unit 1)
+          (reference "SW46") (unit 1)
         )
       )
       (project "Matrix"
@@ -1699,7 +1699,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 148.59 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4654579b-5482-44fd-a4ca-e70750119c8b)
-    (property "Reference" "SW41" (at 148.59 129.54 0)
+    (property "Reference" "SW48" (at 148.59 129.54 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 148.59 132.08 0)
@@ -1716,7 +1716,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW41") (unit 1)
+          (reference "SW48") (unit 1)
         )
       )
       (project "Matrix"
@@ -1767,7 +1767,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 128.27 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 50d49d20-0b5b-420b-b72c-62978ba802de)
-    (property "Reference" "SW4" (at 128.27 38.1 0)
+    (property "Reference" "SW8" (at 128.27 38.1 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 128.27 40.64 0)
@@ -1784,7 +1784,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW4") (unit 1)
+          (reference "SW8") (unit 1)
         )
       )
       (project "Matrix"
@@ -1798,7 +1798,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 87.63 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 55a04a63-c9b3-453a-901d-53fb4e3359a4)
-    (property "Reference" "SW14" (at 87.63 68.58 0)
+    (property "Reference" "SW18" (at 87.63 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 87.63 71.12 0)
@@ -1815,7 +1815,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW14") (unit 1)
+          (reference "SW18") (unit 1)
         )
       )
       (project "Matrix"
@@ -1829,7 +1829,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 148.59 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 55c8eef1-4ef1-4f40-a85a-edcbe6fe84b0)
-    (property "Reference" "SW5" (at 148.59 38.1 0)
+    (property "Reference" "SW9" (at 148.59 38.1 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 148.59 40.64 0)
@@ -1846,7 +1846,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW5") (unit 1)
+          (reference "SW9") (unit 1)
         )
       )
       (project "Matrix"
@@ -2045,7 +2045,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 128.27 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 65b18729-1ed3-4b82-b6c7-5f8332e037a4)
-    (property "Reference" "SW40" (at 128.27 129.54 0)
+    (property "Reference" "SW47" (at 128.27 129.54 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 128.27 132.08 0)
@@ -2062,7 +2062,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW40") (unit 1)
+          (reference "SW47") (unit 1)
         )
       )
       (project "Matrix"
@@ -2187,7 +2187,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 107.95 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 68da62bc-0ecc-4dd0-a069-2839b607eac6)
-    (property "Reference" "SW21" (at 107.95 83.82 0)
+    (property "Reference" "SW25" (at 107.95 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 107.95 86.36 0)
@@ -2204,7 +2204,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW21") (unit 1)
+          (reference "SW25") (unit 1)
         )
       )
       (project "Matrix"
@@ -2218,7 +2218,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 128.27 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6d5e607c-609e-40be-b048-233456ed1999)
-    (property "Reference" "SW22" (at 128.27 83.82 0)
+    (property "Reference" "SW26" (at 128.27 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 128.27 86.36 0)
@@ -2235,7 +2235,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW22") (unit 1)
+          (reference "SW26") (unit 1)
         )
       )
       (project "Matrix"
@@ -2249,7 +2249,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 107.95 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6e48fc72-796e-4d3d-96ac-3d1eec11f00d)
-    (property "Reference" "SW27" (at 107.95 99.06 0)
+    (property "Reference" "SW31" (at 107.95 99.06 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 107.95 101.6 0)
@@ -2266,7 +2266,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW27") (unit 1)
+          (reference "SW31") (unit 1)
         )
       )
       (project "Matrix"
@@ -2428,7 +2428,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 107.95 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8269a282-b052-4e55-9286-546a5dc8cd43)
-    (property "Reference" "SW9" (at 107.95 53.34 0)
+    (property "Reference" "SW13" (at 107.95 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 107.95 55.88 0)
@@ -2445,7 +2445,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW9") (unit 1)
+          (reference "SW13") (unit 1)
         )
       )
       (project "Matrix"
@@ -2496,7 +2496,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 67.31 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8edce7d3-0aa3-45cb-88d2-3c0a519b96be)
-    (property "Reference" "SW13" (at 67.31 68.58 0)
+    (property "Reference" "SW17" (at 67.31 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 67.31 71.12 0)
@@ -2513,7 +2513,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW13") (unit 1)
+          (reference "SW17") (unit 1)
         )
       )
       (project "Matrix"
@@ -2527,7 +2527,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 87.63 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9a320671-dd90-4fd6-82c3-b45e5c790a32)
-    (property "Reference" "SW26" (at 87.63 99.06 0)
+    (property "Reference" "SW30" (at 87.63 99.06 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 87.63 101.6 0)
@@ -2544,7 +2544,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW26") (unit 1)
+          (reference "SW30") (unit 1)
         )
       )
       (project "Matrix"
@@ -2558,7 +2558,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 87.63 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9ad1bb5b-2715-4780-b2a3-4f4f0a22337d)
-    (property "Reference" "SW38" (at 87.63 129.54 0)
+    (property "Reference" "SW45" (at 87.63 129.54 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 87.63 132.08 0)
@@ -2575,7 +2575,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW38") (unit 1)
+          (reference "SW45") (unit 1)
         )
       )
       (project "Matrix"
@@ -2589,7 +2589,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 168.91 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9bdf28a0-915a-49fa-b44a-fbf3093da1d4)
-    (property "Reference" "SW36" (at 168.91 114.3 0)
+    (property "Reference" "SW40" (at 168.91 114.3 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 168.91 116.84 0)
@@ -2606,7 +2606,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW36") (unit 1)
+          (reference "SW40") (unit 1)
         )
       )
       (project "Matrix"
@@ -2620,7 +2620,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 67.31 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9dcd3772-9f6e-4ab9-87a4-9156fd4f633a)
-    (property "Reference" "SW19" (at 67.31 83.82 0)
+    (property "Reference" "SW23" (at 67.31 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 67.31 86.36 0)
@@ -2637,7 +2637,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW19") (unit 1)
+          (reference "SW23") (unit 1)
         )
       )
       (project "Matrix"
@@ -2688,7 +2688,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 87.63 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a5ebe87d-1297-4628-8df5-a7540525ac61)
-    (property "Reference" "SW2" (at 87.63 38.1 0)
+    (property "Reference" "SW6" (at 87.63 38.1 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 87.63 40.64 0)
@@ -2705,7 +2705,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW2") (unit 1)
+          (reference "SW6") (unit 1)
         )
       )
       (project "Matrix"
@@ -2719,7 +2719,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 148.59 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a77f6ee9-b692-43ba-9981-5a75ebe8cdee)
-    (property "Reference" "SW29" (at 148.59 99.06 0)
+    (property "Reference" "SW33" (at 148.59 99.06 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 148.59 101.6 0)
@@ -2736,7 +2736,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW29") (unit 1)
+          (reference "SW33") (unit 1)
         )
       )
       (project "Matrix"
@@ -2750,7 +2750,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 148.59 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a7d76b53-8c63-4dfb-b0ed-09928a883baa)
-    (property "Reference" "SW23" (at 148.59 83.82 0)
+    (property "Reference" "SW27" (at 148.59 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 148.59 86.36 0)
@@ -2767,7 +2767,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW23") (unit 1)
+          (reference "SW27") (unit 1)
         )
       )
       (project "Matrix"
@@ -2781,7 +2781,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 67.31 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ad93a425-f3f2-43d2-9dd4-27f69e7aa75b)
-    (property "Reference" "SW1" (at 67.31 38.1 0)
+    (property "Reference" "SW5" (at 67.31 38.1 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 67.31 40.64 0)
@@ -2798,7 +2798,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW1") (unit 1)
+          (reference "SW5") (unit 1)
         )
       )
       (project "Matrix"
@@ -2849,7 +2849,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 128.27 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b7260d3d-c313-46d3-a744-ebff3c08d32a)
-    (property "Reference" "SW10" (at 128.27 53.34 0)
+    (property "Reference" "SW14" (at 128.27 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 128.27 55.88 0)
@@ -2866,7 +2866,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW10") (unit 1)
+          (reference "SW14") (unit 1)
         )
       )
       (project "Matrix"
@@ -2880,7 +2880,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 67.31 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b73f59a5-342b-49a0-833a-f1a5172fd091)
-    (property "Reference" "SW31" (at 67.31 114.3 0)
+    (property "Reference" "SW35" (at 67.31 114.3 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 67.31 116.84 0)
@@ -2897,7 +2897,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW31") (unit 1)
+          (reference "SW35") (unit 1)
         )
       )
       (project "Matrix"
@@ -3022,7 +3022,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 87.63 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c18c3c7c-b7b2-4d1c-b81b-6a643c4074d5)
-    (property "Reference" "SW8" (at 87.63 53.34 0)
+    (property "Reference" "SW12" (at 87.63 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 87.63 55.88 0)
@@ -3039,7 +3039,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW8") (unit 1)
+          (reference "SW12") (unit 1)
         )
       )
       (project "Matrix"
@@ -3189,7 +3189,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 87.63 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d4bd9d92-3d3c-44dc-961f-e0468f83d009)
-    (property "Reference" "SW32" (at 87.63 114.3 0)
+    (property "Reference" "SW36" (at 87.63 114.3 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 87.63 116.84 0)
@@ -3206,7 +3206,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW32") (unit 1)
+          (reference "SW36") (unit 1)
         )
       )
       (project "Matrix"
@@ -3257,7 +3257,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 67.31 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid da4e11e8-c468-4240-979e-a203fd36ccb0)
-    (property "Reference" "SW37" (at 67.31 127 0)
+    (property "Reference" "SW41" (at 67.31 127 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 67.31 129.54 0)
@@ -3274,7 +3274,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW37") (unit 1)
+          (reference "SW41") (unit 1)
         )
       )
       (project "Matrix"
@@ -3362,7 +3362,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 168.91 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e2148315-6f80-4485-98bd-4d891cd0257c)
-    (property "Reference" "SW12" (at 168.91 53.34 0)
+    (property "Reference" "SW16" (at 168.91 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 168.91 55.88 0)
@@ -3379,7 +3379,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW12") (unit 1)
+          (reference "SW16") (unit 1)
         )
       )
       (project "Matrix"
@@ -3393,7 +3393,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 128.27 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e2e48519-0bb5-4ff8-a5de-bbc4a8ddd42a)
-    (property "Reference" "SW34" (at 128.27 114.3 0)
+    (property "Reference" "SW38" (at 128.27 114.3 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 128.27 116.84 0)
@@ -3410,7 +3410,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW34") (unit 1)
+          (reference "SW38") (unit 1)
         )
       )
       (project "Matrix"
@@ -3461,7 +3461,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 168.91 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e3a33265-30d1-4f81-800c-21615b0f2ee7)
-    (property "Reference" "SW6" (at 168.91 38.1 0)
+    (property "Reference" "SW10" (at 168.91 38.1 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 168.91 40.64 0)
@@ -3478,7 +3478,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW6") (unit 1)
+          (reference "SW10") (unit 1)
         )
       )
       (project "Matrix"
@@ -3492,7 +3492,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 148.59 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e6a4d739-96aa-4716-a807-fdf9582637f3)
-    (property "Reference" "SW11" (at 148.59 53.34 0)
+    (property "Reference" "SW15" (at 148.59 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 148.59 55.88 0)
@@ -3509,7 +3509,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW11") (unit 1)
+          (reference "SW15") (unit 1)
         )
       )
       (project "Matrix"
@@ -3634,7 +3634,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 168.91 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f96bba8b-abbe-45f5-a7a5-b9fd4b5c3149)
-    (property "Reference" "SW18" (at 168.91 68.58 0)
+    (property "Reference" "SW22" (at 168.91 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 168.91 71.12 0)
@@ -3651,7 +3651,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW18") (unit 1)
+          (reference "SW22") (unit 1)
         )
       )
       (project "Matrix"
@@ -3702,7 +3702,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 168.91 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fb2478de-b87b-4f55-adc9-70666726617d)
-    (property "Reference" "SW30" (at 168.91 99.06 0)
+    (property "Reference" "SW34" (at 168.91 99.06 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 168.91 101.6 0)
@@ -3719,7 +3719,7 @@
     (instances
       (project "Redwood"
         (path "/571427bb-22cb-40ad-9c0b-679e3cdeeef1/f1477989-31c0-47f3-9341-f802c215bc3c"
-          (reference "SW30") (unit 1)
+          (reference "SW34") (unit 1)
         )
       )
       (project "Matrix"
