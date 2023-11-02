@@ -16,3 +16,6 @@
 [submodule "PCB/acheron_Connectors.pretty"]
 	path = PCB/acheron_Connectors.pretty
 	url = https://github.com/AcheronProject/acheron_Connectors.pretty
+[submodule "PCB/acheron_MX_PlateSlots.pretty"]
+	path = PCB/acheron_MX_PlateSlots.pretty
+	url = https://github.com/AcheronProject/acheron_MX_PlateSlots.pretty.git
